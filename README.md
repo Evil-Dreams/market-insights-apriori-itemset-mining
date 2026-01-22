@@ -25,11 +25,6 @@ Jupyter Notebook
 Pandas
 Mlxtend (Apriori & Association Rules)
 
-Project Structure
-market-insights-apriori-itemset-mining/
-├── market-basket-optimization-using-apriori-algo.ipynb
-├── README.md
-
 Key Steps Performed
 
 Data loading and preprocessing
