@@ -46,6 +46,6 @@ Cross-selling strategies
 Inventory planning
 Customer behavior analysis
 
-📌 Conclusion
+Conclusion
 
 This project shows how Apriori-based market basket analysis can extract valuable insights from transactional data and support data-driven decision-making in retail and e-commerce domains.
